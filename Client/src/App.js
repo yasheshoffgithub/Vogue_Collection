@@ -5,7 +5,7 @@ import {
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <span>Home</span>,
+    element: <span>hello</span>,
   },
   {
     path: "/products/:id",
